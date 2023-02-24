@@ -1,0 +1,27 @@
+h2 {
+    padding-top: 3rem;
+    color:steelblue
+}
+
+body {
+    background-image: url("stars1.png");
+    background-color: darkgrey;
+
+    color:aliceblue;
+    font-family:Tahoma;
+    font-weight: bold;
+    
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+p {
+    font-family:Cambria;
+}
+
+
+a {  
+    color:darkcyan;
+    color: cornflowerblue   
+}
